@@ -1,6 +1,6 @@
 ## mulle-tag usage
 
-`usage: mulle-clean [flags] <tag> [mulle bootstrap options]`
+`usage: mulle-tag [flags] <tag> [mulle bootstrap options]`
 
 Tag your project and it's dependencies with a common tag
 
